@@ -108,3 +108,4 @@ function App() {
 }
 
 export default App
+//cmdkey /delete:LegacyGeneric:target=git:https://github.com
